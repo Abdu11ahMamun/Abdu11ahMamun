@@ -5,10 +5,6 @@
 
 <!-- - 🔭 I’m currently working on **YOLOv5 and ** -->
 
-- 🌱 I’m currently learning **SpringBoot and Angular**
-
-- 💬 Ask me about **PHP, JAVA, JAVAFX, Python, C**
-
 - 📫 How to reach me **cs.abdullah.mamun@gmail.com**
 
 - ⚡ Fun fact **I love to watch anime.**
