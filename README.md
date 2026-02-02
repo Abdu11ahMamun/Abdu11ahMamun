@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <a href="https://twitter.com/abdu11ah_mamun" target="blank"><img src="https://img.shields.io/twitter/follow/abdu11ah_mamun?logo=twitter&style=for-the-badge" alt="abdu11ah_mamun" /></a> </p>
 
-<!-- - 🔭 I’m currently working on **YOLOv5 and ** -->
-
-- 📫 How to reach me **cs.abdullah.mamun@gmail.com**
-
-- ⚡ Fun fact **I love to watch anime.**
+- 🔭 Currently working on **Fintech platforms** (BEFTN, RTGS, Payment Gateway) and **AI-based Shariah Auditing using LLMs**
+- 🌱 Learning **Kubernetes**, **Advanced NLP**, and **Cybersecurity** (pursuing Master's)
+- 🤝 **Open to collaborating** on fintech, microservices, and AI/ML open-source projects
+- 💬 Ask me about **Spring Boot**, **RESTful APIs**, **LLM integration**, or **Fintech systems**
+- 📫 Reach me at **cs.abdullah.mamun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
