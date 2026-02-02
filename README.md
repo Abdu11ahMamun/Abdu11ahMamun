@@ -26,60 +26,40 @@ Software Engineer with 2 years of experience building fintech applications and A
 
 ## 🛠️ Tech Stack
 
-### Core Technologies
+### Programming Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="45" height="45"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
 </p>
 
-### Databases & Cloud
+### Web Development
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+  <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring Boot" width="45" height="45"/>
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
 </p>
 
-### AI/ML & Tools
+### Machine Learning & Data Science
 <p>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### [SPARK - Agile Project Management Tool](https://github.com/Abdu11ahMamun)
-Microservices-based project management system built with Spring Boot and Angular
-- **Tech:** Spring Boot, Microservices, Angular, REST APIs
-- **Features:** Sprint planning, task tracking, team collaboration
-
-### [Khabo - Food Ordering App](https://github.com/Abdu11ahMamun)
-Android application with real-time database and push notifications
-- **Tech:** Android, Firebase, Real-time Database
-- **Features:** User authentication, order management, notifications
-
-### AI-based Shariah Auditing System
-Enterprise LLM solution for Islamic banking compliance auditing
-- **Tech:** Python, LLMs, NLP, Spring Boot
-- **Impact:** Automated compliance checking for financial transactions
-
----
-
-## 💼 Experience
-
-**Assistant Software Engineer** @ Millennium Information Solution Ltd. *(Jun 2023 - Present)*
-- Developing fintech solutions: BEFTN, RTGS, Payment Gateway, Islamic Core Banking
-- Building REST APIs and microservices with Spring Boot
-- Implementing AI/LLM features for financial compliance
-- Database optimization with Oracle and MySQL
+### Tools & Others
+<p>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="45" height="45"/>
+</p>
 
 ---
 
@@ -116,6 +96,4 @@ Enterprise LLM solution for Islamic banking compliance auditing
   <img src="https://komarev.com/ghpvc/?username=Abdu11ahMamun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <i>Open to collaborating on fintech, microservices, AI/ML, and LLM integration projects!</i>
-</p>
+<p align="center">💡 <i>"Code is like humor. When you have to explain it, it's bad."</i></p>
