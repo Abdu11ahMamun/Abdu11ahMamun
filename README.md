@@ -1,5 +1,5 @@
 <h1 align="center">Abdullah Al Mamun</h1>
-<h3 align="center">Software Engineer | Fintech | LLM & AI</h3>
+<h3 align="center">Backend Developer | Deep Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://twitter.com/abdu11ah_mamun" target="_blank">
@@ -14,13 +14,13 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with 2 years of experience building fintech applications and AI-powered solutions. I specialize in backend development with Java/Spring Boot, microservices architecture, and integrating LLMs into enterprise systems.
+I'm a passionate backend developer with a strong interest in deep learning and artificial intelligence. I enjoy building scalable applications and exploring the intersection of software engineering and machine learning.
 
-- 🔭 Currently working on **Fintech platforms** (BEFTN, RTGS, Payment Gateway) and **AI-based Shariah Auditing using LLMs**
-- 🌱 Learning **Kubernetes**, **Advanced NLP**, and **Cybersecurity** (pursuing Master's)
-- 🤝 **Open to collaborating** on fintech, microservices, and AI/ML open-source projects
-- 💬 Ask me about **Spring Boot**, **RESTful APIs**, **LLM integration**, or **Fintech systems**
+- 🔭 Currently exploring **Computer Vision** and **YOLOv5**
+- 🌱 Continuously learning about **Deep Learning frameworks** and **Backend Architecture**
+- 💬 Ask me about **Backend Development**, **Machine Learning**, or **Web Scraping**
 - 📫 Reach me at **cs.abdullah.mamun@gmail.com**
+- ⚡ Fun fact: **I'm an avid anime enthusiast**
 
 ---
 
